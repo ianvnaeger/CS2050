@@ -1,0 +1,9 @@
+Brennor | 200 | 5 | 180 | 7
+Calen | 1000 | 10 | 80 | 5
+Roc | 5000 | 50 | 25 | 1
+Bronze Short Sword  | 240 | 15 |  LVL 1s only. 
+Iron Longsword  | 500 | 26 |  The only sword that comes with a sheath. 
+Steel Claymore  | 740 | 29 |  The solidest of solid swords. 
+Wooden Shield  | 150 | 5 |  A classic for noobs. 
+Worn Aegis  | 245 | 28 |  A battle-scarred antique. 
+Buckler  | 300 | 17 |  Rather than a regular buck.  
